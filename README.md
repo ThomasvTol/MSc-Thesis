@@ -1,5 +1,5 @@
 
-## MSc. Thesis project: Uncertainty of COVID in mobility
+## MSc. Thesis project: Uncertainty of COVID-19 in passenger mobility
 
 N.B. To run the Vensim model both the xls data files require to be in the same directory as the model file. 
 
